@@ -1,7 +1,7 @@
 var name = "Joe"
 var height = "74"
 if (name === "Susan") {
-  console.log 
+  console.log("This name is right.")
 }
 
 // Don't worry about this
